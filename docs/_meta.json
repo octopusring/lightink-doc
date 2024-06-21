@@ -12,5 +12,10 @@
   {
     "text": "API",
     "link": "https://rspress.dev/api/index.html"
+  },
+  {
+    "text": "厚墨用户常见问题",
+    "link": "/deepink_faq/",
+    "activeMatch": "/deepink_faq/"
   }
 ]
