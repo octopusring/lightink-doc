@@ -30,7 +30,7 @@ iOS可以直接在 App Store 搜索清墨下载.
 
 Android可以点击下面链接下载apk, 记得要在浏览器打开哦, 在 qq / 微信里是不行的. 
 
-[lightink-1.4.0+83-android.apk](http://github.lightink.ltd/https:/github.com/octopusring/Light-Ink/releases/download/v1.4.0/lightink-1.4.0+83-android.apk)
+[lightink-1.4.0+83-android.apk](http://github.lightink.ltd/https:/github.com/octopusring/Light-Ink/releases/download/v1.6.0/lightink-1.6.0+93-android.apk)
 
 也可以在群文件下载.
 
