@@ -22,5 +22,11 @@
     "text": "WebDAV备份",
     "link": "/webdav_help/",
     "activeMatch": "/webdav_help/"
+  },
+  {
+    "text": "备份与同步",
+    "link": "/backup_faq/",
+    "activeMatch": "/backup_faq/"
+
   }
 ]
