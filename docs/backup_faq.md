@@ -6,11 +6,15 @@
 
 > 以阿里云盘为例: 
 
-1. 点击此处登录阿里云盘账号
+1. 点击同步, 进入同步设置页面
+
+![](https://minio.zhendong.ltd/doc/301736590121_.pic.jpg)
+
+2. 点击这里登录阿里云盘账号
 
 ![](https://minio.zhendong.ltd/doc/2BD549EF-4E55-4F9A-91BD-91147CE15678.PNG)
 
-2. 
+3. 登录成功后
 
 
 
