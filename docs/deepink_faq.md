@@ -47,6 +47,7 @@ Android可以点击下面链接下载apk, 记得要在浏览器打开哦, 在 qq
 #### 沙箱里的文件存在哪里？
 
 `/data/data/<包名>/files/` 清墨的包名为 org.octopusring.lightink
+
 其中, 图书文件在 `<上面的路径>/flutter/book/`, 主题中的图片文件在 `<上面的路径>/flutter/background_image/`
 
 #### 我还想了解具体的背景和为什么会这样设计
