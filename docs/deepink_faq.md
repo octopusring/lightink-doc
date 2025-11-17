@@ -46,10 +46,11 @@ Android可以点击下面链接下载apk, 记得要在浏览器打开哦, 在 qq
 
 #### 沙箱里的文件存在哪里？
 
-/data/data/<包名>/files/
-清墨的包名为 org.octopusring.lightink
+`/data/data/<包名>/files/` 清墨的包名为 org.octopusring.lightink
+其中, 图书文件在 `<上面的路径>/flutter/book/`, 主题中的图片文件在 `<上面的路径>/flutter/background_image/`
 
 #### 我还想了解具体的背景和为什么会这样设计
 
 简单来说这是Android的最佳实践, 最大程度保护了用户的隐私和存储空间的干净整洁, 详见官方文档:
-[link](https://developer.android.com/training/data-storage?hl=zh-cn#scoped-storage)
+
+[https://developer.android.com/training/data-storage?hl=zh-cn#scoped-storage](https://developer.android.com/training/data-storage?hl=zh-cn#scoped-storage)
