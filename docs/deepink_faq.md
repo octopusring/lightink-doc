@@ -34,3 +34,22 @@ Android可以点击下面链接下载apk, 记得要在浏览器打开哦, 在 qq
 
 也可以在群文件下载.
 
+### 清墨的图书文件存储
+
+在 Android 中，每个应用都有自己独立的专属文件夹，这个独立空间就叫做 应用沙箱（App Sandbox）。
+
+沙箱的特点：
+
+1. 只有该应用本身能访问自己的文件
+2. 其他应用无法读取或修改里面的内容
+3. 应用卸载时，沙箱里的文件会自动一起删除
+
+沙箱里的文件存在哪里？
+
+/data/data/<包名>/files/
+清墨的包名为 org.octopusring.lightink
+
+我还想了解具体的背景和为什么会这样设计
+
+简单来说这是Android的最佳实践, 最大程度保护了用户的隐私和存储空间的干净整洁, 详见官方文档:
+[link](https://developer.android.com/training/data-storage?hl=zh-cn#scoped-storage)
