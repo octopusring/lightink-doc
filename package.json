@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/node": "^16",
-    "rspress": "^1.25.0",
+    "rspress": "^1.46.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   }
