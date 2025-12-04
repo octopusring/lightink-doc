@@ -29,6 +29,11 @@
     "activeMatch": "/backup_faq/"
   },
   {
+    "text": "备份与同步V2",
+    "link": "/backup_faq_v2/",
+    "activeMatch": "/backup_faq_v2/"
+  },
+  {
     "text": "会员服务协议",
     "link": "/vip_faq/",
     "activeMatch": "/vip_faq/"
